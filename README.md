@@ -5,4 +5,4 @@ Componentes do jogo:
 - Bolinha: eles destroem os blocos.
 - Blocos: ao serem destruídas geram pontos para o jogador. Ao destruir todos os blocos a fase é concluída.
 
-'P' pausa  jogo.
+'P' pausa  jogo. 
